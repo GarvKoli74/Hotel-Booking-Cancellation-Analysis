@@ -36,4 +36,4 @@ The final interactive dashboard acts as a central hub for hotel operations, disp
 ---
 
 ## 🖼️ Dashboard Preview
-*(Take a screenshot of your Excel dashboard, upload the image file to this repository, and paste the image link here to display it visually to recruiters!)*
+![Excel Dashboard](Hotel Booking cancellation DashBoard.png)

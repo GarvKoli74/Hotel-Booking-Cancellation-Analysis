@@ -36,4 +36,4 @@ The final interactive dashboard acts as a central hub for hotel operations, disp
 ---
 
 ## 🖼️ Dashboard Preview
-![Excel Dashboard](Hotel Booking cancellation DashBoard.png)
+![Excel Dashboard](Hotel%20Booking%20cancellation%20DashBoard.png)
